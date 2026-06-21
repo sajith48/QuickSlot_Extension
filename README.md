@@ -153,25 +153,7 @@ Alt + Shift + 1
 
 to paste.
 
----
 
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-### Main Popup
-
-![Popup](./screenshots/popup.png)
-
-### Recent History
-
-![History](./screenshots/history.png)
-
-### Drag & Drop
-
-![DragDrop](./screenshots/dragdrop.png)
 
 ---
 
@@ -212,7 +194,7 @@ All user data is stored locally using Chrome Storage APIs.
 
 **Sajith**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/sajith48
 
 ---
 
